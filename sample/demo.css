@@ -1,0 +1,104 @@
+body {	
+	padding-top: 60px;
+	padding-bottom: 40px;
+}
+
+div.roulette_container {
+	background-color:rgb(253, 252, 253);
+	width:100px;
+	height:100px;
+	border:1px solid rgba(253, 252, 253, 0.31);
+	box-shadow:0px 0px 3px lightpink;margin:auto;
+}
+
+.page-header {
+	margin-left: 4%;
+}
+
+.span4 {
+	width: 100%;
+}
+
+.label_margin {
+	margin-left: 25px;
+	margin-top: 30px;
+}
+
+.img_container {
+	margin-top: 40px;
+	margin-left: 4%;
+}
+
+.img_container img {
+	width: auto;
+	height: 75px;
+}
+
+.roulette-inner img {
+	width: auto;
+	min-height: 100px;
+}
+
+
+.roulette_wrapper {
+	margin-left: 4%;
+	display: inline-flex;
+}
+
+.btn_container {
+	margin-top: 20px;
+	margin-left: 4%;
+	text-align: left;
+}
+.btn_container .start {
+	margin-right:20px;
+}
+.log_container {
+	margin-left:4%;
+	margin-top:40px;
+}
+.demo_label {
+	border-left:5px solid gray;
+	padding-left:5px;
+	font-size: 20px;
+}
+#msg {
+	border:1px solid #eee;
+	padding:10px 20px;
+	overflow-y: scroll;
+	min-height: 100px;
+	width: 80%;
+	resize: both;
+}
+div.param_label {
+	margin:20px 0px 10px 0px;
+}
+#stopImageNumber {
+	width : 20px;
+}
+.param_name {
+	font-weight:bold;
+}
+.image_sample img{
+	width : 10px;
+	cursor: pointer;
+}
+.right_container {
+	width: 550px;
+	margin-left: 100px;
+}
+.code_container {
+	margin-top:50px;
+	width: 500px;
+}
+.label-info {
+	margin-bottom: 3px;
+}
+div.ui-slider {
+	width: 300px;
+}
+.container {
+	width:100%;
+	margin:0px;
+	padding:0px;
+}
