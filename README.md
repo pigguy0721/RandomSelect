@@ -3,12 +3,11 @@ roulette.js
 
 roulette.js is a jQuery Plugin for roulette image.
 
-### DEMO
-
-http://demo.st-marron.info/roulette/sample/demo.html
+This repository is a clone of https://github.com/akira-kuriyama/roulette.js
 
 ===========
-###　追記(by shigeXshige)
+
+### 追記(by shigeXshige)
 
 細かい処理についてはdemo.jsに直接コメントしております
 必要であれば適宜修正してください
@@ -22,3 +21,4 @@ http://demo.st-marron.info/roulette/sample/demo.html
   ・再読み込みが走るのでログが消えてしまいます。ご注意ください
  ・5体選出の時にキャラ被りなく選出される
  ・ボタンの連打押しエラーの対応、ルーレット開始からセットするまでスタートを押せないよう制御
+
